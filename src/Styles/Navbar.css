@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Lato:wght@400;700&family=Outfit&display=swap');
+/* font-family: 'Lato', sans-serif; */
+/* font-family: 'Outfit', sans-serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    font-family: 'Belanosima', sans-serif;
+    font-size: 24px;
+    height: 80px;
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}
+
+li:hover {
+    cursor: pointer;
+    color: red;
+}
+
+nav h1 {
+    margin-top: 10px;
+}
+
+.links {
+    margin-top: 10px;
+}
