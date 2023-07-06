@@ -7,12 +7,12 @@
 
 .container::before {
     content: '';
-    background: url('../assets/11.jpg');
+    background: url('../assets/nate-grant-QQ9LainS6tI-unsplash.jpg');
     position: absolute;
     left: -3px;
     height: 100vh;
     width: 1539px;
-    filter: blur(2px);
+    /* filter: blur(7px); */
     z-index: -5;
 
 }

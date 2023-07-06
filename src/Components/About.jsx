@@ -5,7 +5,7 @@ import vg from "../assets/2.webp";
 const About = () => {
   return (
     <>
-        <section className="about-section">
+        <section className="about-section" id='about'>
             <img src={vg} alt="" />
             <div className="about-info">
                 <h1>About</h1>
