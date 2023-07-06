@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dev-palwar/first-react-site/static/css/main.ac2fe565.css",
-    "main.js": "/dev-palwar/first-react-site/static/js/main.bf201895.js",
-    "static/media/nate-grant-QQ9LainS6tI-unsplash.jpg": "/dev-palwar/first-react-site/static/media/nate-grant-QQ9LainS6tI-unsplash.e51767b2ac706a47585f.jpg",
-    "static/media/2.webp": "/dev-palwar/first-react-site/static/media/2.f9561efff3bd3330d3b9.webp",
-    "index.html": "/dev-palwar/first-react-site/index.html",
-    "main.ac2fe565.css.map": "/dev-palwar/first-react-site/static/css/main.ac2fe565.css.map",
-    "main.bf201895.js.map": "/dev-palwar/first-react-site/static/js/main.bf201895.js.map"
+    "main.css": "/first-react-site/static/css/main.461337db.css",
+    "main.js": "/first-react-site/static/js/main.b558b69c.js",
+    "static/media/nate-grant-QQ9LainS6tI-unsplash.jpg": "/first-react-site/static/media/nate-grant-QQ9LainS6tI-unsplash.e51767b2ac706a47585f.jpg",
+    "static/media/2.webp": "/first-react-site/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/first-react-site/index.html",
+    "main.461337db.css.map": "/first-react-site/static/css/main.461337db.css.map",
+    "main.b558b69c.js.map": "/first-react-site/static/js/main.b558b69c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac2fe565.css",
-    "static/js/main.bf201895.js"
+    "static/css/main.461337db.css",
+    "static/js/main.b558b69c.js"
   ]
 }
